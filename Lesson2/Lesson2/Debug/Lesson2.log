@@ -1,0 +1,4 @@
+﻿  main.cpp
+c:\dev\learn_sdl\lesson2\lesson2\main.cpp(50): warning C4477: 'printf' : format string '%s' requires an argument of type 'char *', but variadic argument 1 has type 'const char *(__cdecl *)(void)'
+  Lesson2.vcxproj -> C:\dev\Learn_SDL\Lesson2\Debug\Lesson2.exe
+  Lesson2.vcxproj -> C:\dev\Learn_SDL\Lesson2\Debug\Lesson2.pdb (Partial PDB)
